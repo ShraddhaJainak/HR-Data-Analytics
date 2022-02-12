@@ -8,4 +8,5 @@ In this project five datasets are used:<br>
 3.employee_survey_data - It contains survey data of employee.<br>
 4.in_time - It contains office entry time of employee.<br>
 5.out_time - It contains office exit time of employee.<br>
-The data_dictionary file contains details of each feature.<br>
+The data_dictionary file contains details of each feature.<br><br>
+The model used is Decision Tree classifier.
